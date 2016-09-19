@@ -4,7 +4,8 @@
   "description": "example of issue with sub directories for webpack + babel stack ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:pure": "mocha",
+    "test:built": "webpack --config config/webpack.test.js;mocha ./dist/bundle.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/hyzhak/webpack-babel-folder-issue/issues"
   },
-  "homepage": "https://github.com/hyzhak/webpack-babel-folder-issue#readme"
+  "homepage": "https://github.com/hyzhak/webpack-babel-folder-issue#readme",
+  "dependencies": {
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "webpack": "^1.13.2"
+  }
 }

@@ -1,4 +1,6 @@
 node_modules
+npm-debug.log
+tests-client/dist
 dist/
 .tmp
 app.yaml
