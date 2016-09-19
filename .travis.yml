@@ -6,5 +6,5 @@ before_script:
   - cd tests-client
   - npm install
 script:
-  - npm test:pure
-  - npm test:built
+  - npm run test:pure
+  - npm run test:built
