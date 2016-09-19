@@ -1,0 +1,25 @@
+{
+  "name": "webpack-babel-folder-issue",
+  "version": "1.0.0",
+  "description": "example of issue with sub directories for webpack + babel stack ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyzhak/webpack-babel-folder-issue.git"
+  },
+  "keywords": [
+    "example",
+    "webpack",
+    "babel",
+    "issue"
+  ],
+  "author": "Eugene Krevenets <ievgenii.krevenets@gmail.com> (hyzhak.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyzhak/webpack-babel-folder-issue/issues"
+  },
+  "homepage": "https://github.com/hyzhak/webpack-babel-folder-issue#readme"
+}
