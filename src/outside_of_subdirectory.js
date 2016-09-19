@@ -1,1 +1,3 @@
-console.log(`I am here ${__dirname}`);
+export function outside() {
+  console.log(`I am there ${__dirname}`);
+}
