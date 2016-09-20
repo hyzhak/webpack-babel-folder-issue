@@ -1,4 +1,4 @@
-# Webpack + babel sibling directory issue [![Build Status](https://travis-ci.org/hyzhak/webpack-babel-folder-issue.svg?branch=master)](https://travis-ci.org/hyzhak/webpack-babel-folder-issue)
+# Webpack + babel sibling directory issue [![Build Status](https://travis-ci.org/hyzhak/webpack-babel-folder-issue.svg?branch=feature/babelrc-for-sources)](https://travis-ci.org/hyzhak/webpack-babel-folder-issue)
  
 issue is here [webpack #2936](https://github.com/webpack/webpack/issues/2936)
  
