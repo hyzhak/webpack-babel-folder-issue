@@ -1,0 +1,16 @@
+{
+  "name": "webpack-babel-folder-issue-src",
+  "version": "1.0.0",
+  "description": "example of issue with sub directories for webpack + babel stack (src)",
+  "main": "outside_of_subdirectory.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugene Krevenets <ievgenii.krevenets@gmail.com> (hyzhak.github.io)",
+  "license": "MIT"
+}
